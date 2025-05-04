@@ -2,7 +2,7 @@
 Simple and ready to use GameMaker functions for networking using JSON 
 
 ## How to install
-- [Download the .yymps]()
+- [Download the .yymps](https://github.com/FedoraGuyDev/Noob-s-Easy-TCP/releases)
 - Drag it into your project
 - Include the script into your project
 
